@@ -30,7 +30,7 @@ ID
 to setup
   clear-all
 
-  ; Load all of our datasets
+  ; Load all of the datasets
   set schools-dataset gis:load-dataset "SchoolsWithoutCities.shp"
   set population-dataset gis:load-dataset "Netlogo_population1.shp"
   ;set ed-dataset gis:load-dataset "data/Small_Areas_DEIS.shp"
